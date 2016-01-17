@@ -12,3 +12,7 @@
 - Animate in tip stuff when bill field contains stuff
 - Hide tip stuff when bill field is empty
 - Calculate tip total for more than one person
+
+**Gif:**
+
+![walktrhough](https://raw.githubusercontent.com/diiaann/codepath-prework/master/walkthrough.gif)
